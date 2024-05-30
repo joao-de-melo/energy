@@ -6,7 +6,7 @@ let Backups = {
             id: "grid",
             name: "Grid",
             kwCost: 0.15, // per kWh
-            monthlyCost: 30,
+            monthlyCost: 10,
             initialCost: 0,
             capacity: null,
             duration: null // in years
